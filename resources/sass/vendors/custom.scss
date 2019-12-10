@@ -1,0 +1,99 @@
+.image__main {
+    img {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.hnuTRP {
+    color: #9d9d9d !important;
+}
+
+.eYNcBW {
+    color: #9d9d9d !important;
+}
+
+.rdt_TableHeader {
+    display: none !important;
+}
+
+.custom_button_1 {
+    border-radius: 50px;
+    background: transparent;
+    border: 2px solid #dc6180;
+    color: #dc6180;
+    text-transform: uppercase;
+    font-size: 11px;
+    display: inline-block;
+    transition: all 0.1s ease-in;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+
+
+.custom_button_1:hover {
+    background: #dc6180;
+    color: white
+}
+
+.custom_button_2 {
+    border-radius: 50px;
+    background: transparent;
+    border: 2px solid #ee2f5f;
+    color: #ee2f5f;
+    text-transform: uppercase;
+    font-size: 11px;
+    display: inline-block;
+    transition: all 0.1s ease-in;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.custom_button_2:hover {
+    background: #ee2f5f;
+    color: white
+}
+
+.custom_button_sm {
+    padding: 5px 15px;
+}
+
+.border-bottom_custom {
+    border-bottom: 1px solid #444951;
+    padding: 5px;
+}
+.custom_home_btn_view{
+    background: #3d7c94;
+    padding: 4px 8px;
+    margin: 2px 5px;
+}
+.custom_home_btn_edit{
+    background: #2a6b53;
+    padding: 4px 8px;
+    margin: 2px 5px;
+}
+.custom_home_btn_delete{
+    background: #bd3b37;
+    padding: 4px 8px;
+    margin: 2px 5px;
+}
+
+.custom_success_btn {
+    background: #199282;
+    color: white;
+    padding: 8px 25px;
+    margin-left: 10px;
+    &:hover{
+        color: white;
+    }
+}
+.custom_cancel_btn {
+    background: #d22c2c;
+    color: white;
+    padding: 8px 25px;
+    margin-right: 5px;
+    &:hover{
+        color: white;
+    }
+}
